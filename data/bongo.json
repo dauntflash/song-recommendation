@@ -1,0 +1,1442 @@
+[
+  {
+    "no": 1,
+    "song": "Commando",
+    "artist": "Mavokali",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2733c57ea0af4a15a9cedce5d84"
+  },
+  {
+    "no": 2,
+    "song": "Nitongoze (feat. Diamond Platnumz)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273da2a0bb08d6c49a314519586"
+  },
+  {
+    "no": 3,
+    "song": "Wote",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 4,
+    "song": "Naogopa",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273492b945a68fa3ade48bfa978"
+  },
+  {
+    "no": 5,
+    "song": "Sugar",
+    "artist": "Jay Melody",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c2af9741f017aae6138f646a"
+  },
+  {
+    "no": 6,
+    "song": "Simuachi",
+    "artist": "Jux",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b8a597d6295ad7b2db142ec7"
+  },
+  {
+    "no": 7,
+    "song": "Siachani Nawe",
+    "artist": "Barakah The Prince",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27351cdbda1e04ecffceef89fb7"
+  },
+  {
+    "no": 8,
+    "song": "Kwikwi",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27370f5d188b386b57fe6fb7cac"
+  },
+  {
+    "no": 9,
+    "song": "Baby",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273213e503a352d2f1383fdc582"
+  },
+  {
+    "no": 10,
+    "song": "Puuh",
+    "artist": "Billnass",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731fdb9e9a5363a0c7e058b83a"
+  },
+  {
+    "no": 11,
+    "song": "Nitasema",
+    "artist": "Jay Melody",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27361b3649f32e01e5989239805"
+  },
+  {
+    "no": 12,
+    "song": "Huyu Hapa",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cf82f5d5acbea8511c5307c8"
+  },
+  {
+    "no": 13,
+    "song": "Upo Nyonyo",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273fc837b4bb09fadc962e0ba98"
+  },
+  {
+    "no": 14,
+    "song": "Inatosha",
+    "artist": "Lava Lava",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739149c440c70df704c7e43a4d"
+  },
+  {
+    "no": 15,
+    "song": "Kioo",
+    "artist": "Anjella",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c41578a3b2780aa61abbf9c3"
+  },
+  {
+    "no": 16,
+    "song": "Deka (feat. Mabantu)",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d1c92516c4d1ba4d87bc86c0"
+  },
+  {
+    "no": 17,
+    "song": "Follow Me (feat. Harmonize)",
+    "artist": "Aslay",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27352bc2144b64c3fac47f18f8f"
+  },
+  {
+    "no": 18,
+    "song": "Sio Kwa Ubaya",
+    "artist": "MwanaFA",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273079796703a259be4f2bdfd30"
+  },
+  {
+    "no": 19,
+    "song": "Wandia",
+    "artist": "Cheed",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27386cfd90477dc7b6f0b3518f7"
+  },
+  {
+    "no": 20,
+    "song": "I Wish",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d04679776d5b26b7766aed4b"
+  },
+  {
+    "no": 21,
+    "song": "I Miss You (feat. Zuchu)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273999c8ff3565fc4371a570ec3"
+  },
+  {
+    "no": 22,
+    "song": "Utu",
+    "artist": "Alikiba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273fa24cdabd05edc14e8aa7de1"
+  },
+  {
+    "no": 23,
+    "song": "Naanzaje",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c523a9754cd36d38641401ac"
+  },
+  {
+    "no": 24,
+    "song": "Nakupenda",
+    "artist": "Jay Melody",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730701d649920455211b88f226"
+  },
+  {
+    "no": 25,
+    "song": "Mtasubiri (feat. Zuchu)",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27378386f0440fb7350dd9326e4"
+  },
+  {
+    "no": 26,
+    "song": "Manzese",
+    "artist": "Navy Kenzo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735b3456bca2679b85161b2c3f"
+  },
+  {
+    "no": 27,
+    "song": "Kiss",
+    "artist": "Bahati",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2736d53cbb3d9e42a4b460e9d48"
+  },
+  {
+    "no": 28,
+    "song": "Nileweshe",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273caaf8da9267063e7614d5a05"
+  },
+  {
+    "no": 29,
+    "song": "butterfly",
+    "artist": "Wyse Tz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d6a685de78de989bf5121be7"
+  },
+  {
+    "no": 30,
+    "song": "Tamu (feat. Nandy)",
+    "artist": "Barnaba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d8422d04a31b330dfaabc6c4"
+  },
+  {
+    "no": 31,
+    "song": "Nitaubeba",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 32,
+    "song": "Fire",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273f80b1d90d2f00b15ab212a32"
+  },
+  {
+    "no": 33,
+    "song": "Champion",
+    "artist": "Kontawa",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739d977a7f74b67ed3870f6b2b"
+  },
+  {
+    "no": 34,
+    "song": "Fall",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d6e7698ca33826994d830382"
+  },
+  {
+    "no": 35,
+    "song": "Bye",
+    "artist": "Billnass",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735b693f8a60f9578231c31b66"
+  },
+  {
+    "no": 36,
+    "song": "Jeraha",
+    "artist": "Otile Brown",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e72209f94849cbd418806f24"
+  },
+  {
+    "no": 37,
+    "song": "Marry Me (feat. Marioo)",
+    "artist": "Barnaba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d8422d04a31b330dfaabc6c4"
+  },
+  {
+    "no": 38,
+    "song": "Nawaza",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27378386f0440fb7350dd9326e4"
+  },
+  {
+    "no": 39,
+    "song": "Kolo Kolo",
+    "artist": "Patoranking",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735339a7d2f58c7c8117cedf03"
+  },
+  {
+    "no": 40,
+    "song": "Desh Desh",
+    "artist": "Lava Lava",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2733728b9353a6d6354368aeb57"
+  },
+  {
+    "no": 41,
+    "song": "Pwi Pwi",
+    "artist": "Mavokali",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27320857a961e14b703f010f426"
+  },
+  {
+    "no": 42,
+    "song": "Fine",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27378386f0440fb7350dd9326e4"
+  },
+  {
+    "no": 43,
+    "song": "Only You",
+    "artist": "Mac Voice",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d30a1420b3c7235b68535e7e"
+  },
+  {
+    "no": 44,
+    "song": "Mtaje",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2738c86c439e4513fd1de686a6d"
+  },
+  {
+    "no": 45,
+    "song": "Yataniua (feat. Diamond Platnumz)",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cf82f5d5acbea8511c5307c8"
+  },
+  {
+    "no": 46,
+    "song": "Shetani (feat. Costa Titch \u0026 Alfa Kat)",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cf82f5d5acbea8511c5307c8"
+  },
+  {
+    "no": 47,
+    "song": "I Miss You",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 48,
+    "song": "Nenda",
+    "artist": "Mac Voice",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731e16c75309a6287081753e3d"
+  },
+  {
+    "no": 49,
+    "song": "Amelowa",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 50,
+    "song": "Leo",
+    "artist": "MABANTU",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b2aeafdc1056b06377880da1"
+  },
+  {
+    "no": 51,
+    "song": "Hadithi (feat. Diamond Platnumz)",
+    "artist": "Barnaba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d8422d04a31b330dfaabc6c4"
+  },
+  {
+    "no": 52,
+    "song": "Number One",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273dfe2346a64f70792ab647259"
+  },
+  {
+    "no": 53,
+    "song": "You",
+    "artist": "Bruce africa",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e268416fa1ce8fe1f6a0c5ff"
+  },
+  {
+    "no": 54,
+    "song": "Why",
+    "artist": "The Ben",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e7a93477530711d0d0f21f3f"
+  },
+  {
+    "no": 55,
+    "song": "Sijui Nikoje",
+    "artist": "Whozu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cc52016f97828ac733f24ba0"
+  },
+  {
+    "no": 56,
+    "song": "Dear Ex",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8955d59d0d710c6e89285af"
+  },
+  {
+    "no": 57,
+    "song": "Love (feat. Adekunle Gold)",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b3f226e0d868d727c7756e8b"
+  },
+  {
+    "no": 58,
+    "song": "Utaniua",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273283e4465cb9296b632e2cf97"
+  },
+  {
+    "no": 59,
+    "song": "Yatapita",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ecb2736d25e63040ab0d64ef"
+  },
+  {
+    "no": 60,
+    "song": "Mwamba",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b6163d1bc11557b7d3895560"
+  },
+  {
+    "no": 61,
+    "song": "Wanijue",
+    "artist": "Micky Singer",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cf393a9e9f538302201bbb50"
+  },
+  {
+    "no": 62,
+    "song": "Nikuone",
+    "artist": "Dayoo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27334cb908a42b4a1e27102076f"
+  },
+  {
+    "no": 63,
+    "song": "La La",
+    "artist": "Mimi Mars",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731e29666b45b93ecc9de0d4ea"
+  },
+  {
+    "no": 64,
+    "song": "Ana Wivu",
+    "artist": "Brayban",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b4f3e98733f7158053d4b2dd"
+  },
+  {
+    "no": 65,
+    "song": "Shobo",
+    "artist": "Mr Lg",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2736a58ad6256fbf0a6b89dd886"
+  },
+  {
+    "no": 66,
+    "song": "Ng'ari Ng'ari",
+    "artist": "Lava Lava",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ad980249cc113aeeee7f895e"
+  },
+  {
+    "no": 67,
+    "song": "Leave Me Alone",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d20eef17e4a6cd6937af34a9"
+  },
+  {
+    "no": 68,
+    "song": "Ni Wewe",
+    "artist": "killy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273082ccfedd83afe2f53b11143"
+  },
+  {
+    "no": 69,
+    "song": "Adhiambo",
+    "artist": "Bahati",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273fa7415abc5fdad1034760bb2"
+  },
+  {
+    "no": 70,
+    "song": "Rangi Rangi",
+    "artist": "K2ga",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2733dce3e6db071523f7c8feffb"
+  },
+  {
+    "no": 71,
+    "song": "Inauma",
+    "artist": "Bien",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273712b997e209a412618bf7d63"
+  },
+  {
+    "no": 72,
+    "song": "Minyama",
+    "artist": "Imuh",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273347ced083248cac6a54c068e"
+  },
+  {
+    "no": 73,
+    "song": "Sijiwezi",
+    "artist": "Menina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27339bf5aa1ef743dc0dee14fcd"
+  },
+  {
+    "no": 74,
+    "song": "Chitaki",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ec03b69649a4f2c8cddf4edf"
+  },
+  {
+    "no": 75,
+    "song": "Wivu",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f09f217d23e779e0078d242"
+  },
+  {
+    "no": 76,
+    "song": "I Found Love",
+    "artist": "Lady Jaydee",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27334bc381d33bc56f5dbc28695"
+  },
+  {
+    "no": 77,
+    "song": "Zuwena",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27327fb0eca93bb5b56374c7838"
+  },
+  {
+    "no": 78,
+    "song": "Ukaniumiza - Remix",
+    "artist": "Haitham Kim",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b3382036c0230eea23e828ed"
+  },
+  {
+    "no": 79,
+    "song": "Zai",
+    "artist": "Maua Sama",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2738d760cb866c99761ad0d2f19"
+  },
+  {
+    "no": 80,
+    "song": "Woman (feat. Harmonize)",
+    "artist": "Otile Brown",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731ae2e702384b3bf45ddb0cad"
+  },
+  {
+    "no": 81,
+    "song": "For Your Love (feat. Zuchu)",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2734eca4f1b6c70518bd848f9f3"
+  },
+  {
+    "no": 82,
+    "song": "Mapepe",
+    "artist": "Jux",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b8a597d6295ad7b2db142ec7"
+  },
+  {
+    "no": 83,
+    "song": "Lonely",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8955d59d0d710c6e89285af"
+  },
+  {
+    "no": 84,
+    "song": "I Wish",
+    "artist": "Haitham Kim",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273719b0c491ad03821e354f7fe"
+  },
+  {
+    "no": 85,
+    "song": "One Call (feat. Ruby)",
+    "artist": "Otile Brown",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cf5afe532903b6cdcb73d0ff"
+  },
+  {
+    "no": 86,
+    "song": "Nakuja (feat. Marioo)",
+    "artist": "Tommy Flavour",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e1b1e561f1385a0050e6c739"
+  },
+  {
+    "no": 87,
+    "song": "Huyu Wa Sasa",
+    "artist": "Xouh",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27361358652113f74a0fc16e58c"
+  },
+  {
+    "no": 88,
+    "song": "Utaniua",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27393d893ed7b31d2650e64221a"
+  },
+  {
+    "no": 89,
+    "song": "Forever",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b8bdb8f238bc3a475cf9e8af"
+  },
+  {
+    "no": 90,
+    "song": "Matozo",
+    "artist": "Lady Jaydee",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2734cc2a29be8006407457f60f7"
+  },
+  {
+    "no": 91,
+    "song": "My Baby",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2737aabfc1670b3ebd8b7f9a747"
+  },
+  {
+    "no": 92,
+    "song": "Inauma",
+    "artist": "Aslay",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731d7cdef8e4d9ada0224c1e36"
+  },
+  {
+    "no": 93,
+    "song": "Single Again",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ca4167d1ac12baf8bcfa031f"
+  },
+  {
+    "no": 94,
+    "song": "Mwisho",
+    "artist": "killy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273233b593d468150a420068dc1"
+  },
+  {
+    "no": 95,
+    "song": "Ndoa",
+    "artist": "Cheed",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27380fd4a41d4335d02c3c47c89"
+  },
+  {
+    "no": 96,
+    "song": "Knife",
+    "artist": "Cheed",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a57e6bd21f19bb1b8ba56816"
+  },
+  {
+    "no": 97,
+    "song": "Kioo",
+    "artist": "Anjella",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c41578a3b2780aa61abbf9c3"
+  },
+  {
+    "no": 98,
+    "song": "Mahaba",
+    "artist": "Alikiba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27349749846928415411b9cbfef"
+  },
+  {
+    "no": 99,
+    "song": "Moyo",
+    "artist": "Dayoo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732dd35d5770ad18b9824a3fee"
+  },
+  {
+    "no": 100,
+    "song": "Maan Meri Jaan (African Version)",
+    "artist": "King",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d6f504f9ab3301866fd04924"
+  },
+  {
+    "no": 101,
+    "song": "Vavayo",
+    "artist": "Whozu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27367a0e7b053b0f8066b02270d"
+  },
+  {
+    "no": 102,
+    "song": "Sawa",
+    "artist": "Jay Melody",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731c2fa45b39d2d5d461dd1e6c"
+  },
+  {
+    "no": 103,
+    "song": "Te Quiero (feat. Marioo)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27395546495820973aad9db6f61"
+  },
+  {
+    "no": 104,
+    "song": "Forever",
+    "artist": "Lody Music",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273f054975b2941e9a0e10e5d12"
+  },
+  {
+    "no": 105,
+    "song": "Anisamehe",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8955d59d0d710c6e89285af"
+  },
+  {
+    "no": 106,
+    "song": "Mapepe",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273aa5acd139fe9e1658b82e705"
+  },
+  {
+    "no": 107,
+    "song": "Napambana",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27360284f93115ff33a1f27c050"
+  },
+  {
+    "no": 108,
+    "song": "Nimepona",
+    "artist": "Ibraah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273280f1cadbea9b047df9f141b"
+  },
+  {
+    "no": 109,
+    "song": "Smile",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c8ca1f02fb88199ef9d6b8f4"
+  },
+  {
+    "no": 110,
+    "song": "Paah",
+    "artist": "Kayumba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273df870f437c291e5caa3da255"
+  },
+  {
+    "no": 111,
+    "song": "Kiss",
+    "artist": "Innoss'B",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27364c37757696296754c0ca519"
+  },
+  {
+    "no": 112,
+    "song": "Rara (feat. Jux)",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e95c4fc28843751d89713f42"
+  },
+  {
+    "no": 113,
+    "song": "Mwenyewe",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 114,
+    "song": "I Miss You",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8955d59d0d710c6e89285af"
+  },
+  {
+    "no": 115,
+    "song": "La La La (feat. K2ga, AbduKiba, Vanillah \u0026 Tommy Flavour)",
+    "artist": "Alikiba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739f02d0a15023b26c7def85bf"
+  },
+  {
+    "no": 116,
+    "song": "Cough (Odo)",
+    "artist": "Kizz Daniel",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273fec2bbc7268a4590934b3251"
+  },
+  {
+    "no": 117,
+    "song": "Napendwa",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2733cef44f8a4faa072fcd8ccb9"
+  },
+  {
+    "no": 118,
+    "song": "Best Friend",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 119,
+    "song": "Ta Ta Ta",
+    "artist": "Bayanni",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27323f76fd7221146c6652403f9"
+  },
+  {
+    "no": 120,
+    "song": "My Way",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301a91dd7dfe67969b1f24d77"
+  },
+  {
+    "no": 121,
+    "song": "Sasa Hivi Refix",
+    "artist": "V-Be",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273544024d761c1bf8336490973"
+  },
+  {
+    "no": 122,
+    "song": "Asiwaju",
+    "artist": "Ruger",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273553612f93485c267cd71eb31"
+  },
+  {
+    "no": 123,
+    "song": "Mzuri (feat. Rayvanny)",
+    "artist": "Barnaba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d8422d04a31b330dfaabc6c4"
+  },
+  {
+    "no": 124,
+    "song": "Rush",
+    "artist": "Ayra Starr",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2734828f4b04d92d6641be98cc5"
+  },
+  {
+    "no": 125,
+    "song": "Jaro",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2734613c95ccf290ca933ff0046"
+  },
+  {
+    "no": 126,
+    "song": "One Day Yes",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27386087988aa2c16569b5f857b"
+  },
+  {
+    "no": 127,
+    "song": "Namficha",
+    "artist": "Joozey",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d58431f78f9bc69826f89b79"
+  },
+  {
+    "no": 128,
+    "song": "Popote",
+    "artist": "Ronze",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27391638c85209c5caf6082c4b9"
+  },
+  {
+    "no": 129,
+    "song": "Nihurumie",
+    "artist": "killy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731c1eeb5dd7503a6d1dc4c87c"
+  },
+  {
+    "no": 130,
+    "song": "Shake",
+    "artist": "Kayumba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a9f2acbee822814186e19eb3"
+  },
+  {
+    "no": 131,
+    "song": "Nani?",
+    "artist": "Abigail Chams",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2733522bbfed480a10d53ec77d9"
+  },
+  {
+    "no": 132,
+    "song": "Ananipenda",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27366eb217b8f9d2ffc484530b9"
+  },
+  {
+    "no": 133,
+    "song": "Amawele",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8955d59d0d710c6e89285af"
+  },
+  {
+    "no": 134,
+    "song": "Say Yes",
+    "artist": "Dj Seven Worldwide",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27338a947db6977599bc3b17039"
+  },
+  {
+    "no": 135,
+    "song": "Huba",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273432064e1a889d07d879e808c"
+  },
+  {
+    "no": 136,
+    "song": "Bingo Bango",
+    "artist": "Madini Classic",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273286f40a9eab36750ec0050e6"
+  },
+  {
+    "no": 137,
+    "song": "Rafiki",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732193d39908973570aa4df0f5"
+  },
+  {
+    "no": 138,
+    "song": "Sikuachi",
+    "artist": "Kontawa",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273933af8060c3f1842a7f9dc9b"
+  },
+  {
+    "no": 139,
+    "song": "Serious",
+    "artist": "MABANTU",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732157ed819233749c153c69d5"
+  },
+  {
+    "no": 140,
+    "song": "Nani",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739c4c0ac7c244ce88bdd96ea6"
+  },
+  {
+    "no": 141,
+    "song": "JUU",
+    "artist": "GENIUSJINI X66",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273f9d96cee40404ed3a66cd63b"
+  },
+  {
+    "no": 142,
+    "song": "Shem ake",
+    "artist": "Maby",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a10c2df11bfde98b6b7693c2"
+  },
+  {
+    "no": 143,
+    "song": "Sweet",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c0465556c5da06ae66489612"
+  },
+  {
+    "no": 144,
+    "song": "Nipeni maua yangu",
+    "artist": "Roma Mkatoliki",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ce4f7750d939296eab958bf9"
+  },
+  {
+    "no": 145,
+    "song": "Malipo",
+    "artist": "Otile Brown",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730efeb462471836291d4b4dcb"
+  },
+  {
+    "no": 146,
+    "song": "My Life",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8955d59d0d710c6e89285af"
+  },
+  {
+    "no": 147,
+    "song": "No Body (feat. Bien)",
+    "artist": "Darassa",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27301d80fc7825b22ba76f45c9e"
+  },
+  {
+    "no": 148,
+    "song": "Amepotea",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27342352dc3ebf55244e66da47b"
+  },
+  {
+    "no": 149,
+    "song": "Mwambieni (feat. Mac Voice)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735445a1a233b175933cfb5c45"
+  },
+  {
+    "no": 150,
+    "song": "Zanzibar (feat. Bruce Melodie)",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739506357218174b7ecee68551"
+  },
+  {
+    "no": 151,
+    "song": "Dance (feat. Jay Melody)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735445a1a233b175933cfb5c45"
+  },
+  {
+    "no": 152,
+    "song": "Sing",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f06b9e5b2716da738714b0e"
+  },
+  {
+    "no": 153,
+    "song": "Haoni",
+    "artist": "Dj Seven Worldwide",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d4d036bb3a36e2067983378f"
+  },
+  {
+    "no": 154,
+    "song": "Nikazama",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f06b9e5b2716da738714b0e"
+  },
+  {
+    "no": 155,
+    "song": "Tomorrow",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f06b9e5b2716da738714b0e"
+  },
+  {
+    "no": 156,
+    "song": "On Fire",
+    "artist": "Alikiba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739a6516d910869134b5503c93"
+  },
+  {
+    "no": 157,
+    "song": "Bila Mungu Sitoboi",
+    "artist": "Bright",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a2ed8ff4dfe520f7bda8f2cb"
+  },
+  {
+    "no": 158,
+    "song": "Yamenishika",
+    "artist": "Mocco Genius",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273caf634749bc7a6ee4ddc56ed"
+  },
+  {
+    "no": 159,
+    "song": "I Love You",
+    "artist": "Pacreal",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d379379c812bc107a6a7cd52"
+  },
+  {
+    "no": 160,
+    "song": "Falling",
+    "artist": "Nandy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2737974f4c846b6e8485aaec18e"
+  },
+  {
+    "no": 161,
+    "song": "Tiririka",
+    "artist": "Yammi",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2738c8275a1248243d6ef6a9424"
+  },
+  {
+    "no": 162,
+    "song": "Mbalamwezi",
+    "artist": "Kontawa",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2737352c67099babda00a227f82"
+  },
+  {
+    "no": 163,
+    "song": "Dunga Mawe",
+    "artist": "Kontawa",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273693fe5bc9510125b5ce0555b"
+  },
+  {
+    "no": 164,
+    "song": "Gibela - Remix",
+    "artist": "Chino Kidd",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c0a1045bc230bf9bce21515d"
+  },
+  {
+    "no": 165,
+    "song": "Mchepuko (feat. Phina)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735445a1a233b175933cfb5c45"
+  },
+  {
+    "no": 166,
+    "song": "Shugga Daddy",
+    "artist": "Jux",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273853bfe141cb48e840b974bf3"
+  },
+  {
+    "no": 167,
+    "song": "Raha",
+    "artist": "Nandy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2734cdfd1f149a8973b471accc4"
+  },
+  {
+    "no": 168,
+    "song": "Blessing",
+    "artist": "Anjella",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273890d79f0aa0b935a26e1316d"
+  },
+  {
+    "no": 169,
+    "song": "Pipii",
+    "artist": "G Nako",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273fe38fe8d7313654213bf2f34"
+  },
+  {
+    "no": 170,
+    "song": "Sunina",
+    "artist": "Otile Brown",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273997aaef3aadf695fb917020f"
+  },
+  {
+    "no": 171,
+    "song": "Sitaki",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27380b54feca3dc745af6a97503"
+  },
+  {
+    "no": 172,
+    "song": "Chombo",
+    "artist": "Cheed",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27305bef4aaa8b15a206a75f457"
+  },
+  {
+    "no": 173,
+    "song": "For you",
+    "artist": "Vanillah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c70b4767aed476f48b9fde6a"
+  },
+  {
+    "no": 174,
+    "song": "Nilimpenda Sana",
+    "artist": "Vanillah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2738209914fc8bf0204327690c1"
+  },
+  {
+    "no": 175,
+    "song": "Twende Wote",
+    "artist": "Msamiati",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d942976c2a9935f2a21d79"
+  },
+  {
+    "no": 176,
+    "song": "Tuliza Ball",
+    "artist": "Brayban",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2739d6bb775cfb1b0856a23219a"
+  },
+  {
+    "no": 177,
+    "song": "Nae",
+    "artist": "Dayna Nyange",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e488070913f093b16c9bf235"
+  },
+  {
+    "no": 178,
+    "song": "SIKUACHI",
+    "artist": "limbofest",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27388ab1635b0be7ce5b086feb1"
+  },
+  {
+    "no": 179,
+    "song": "My Babe",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735445a1a233b175933cfb5c45"
+  },
+  {
+    "no": 180,
+    "song": "Nakupenda",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2735445a1a233b175933cfb5c45"
+  },
+  {
+    "no": 181,
+    "song": "Okay",
+    "artist": "Beka Flavour",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27388f449b37339b62775a209a2"
+  },
+  {
+    "no": 182,
+    "song": "Barua",
+    "artist": "Imuh",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2737199f6e9cd02c83e85aa4ca3"
+  },
+  {
+    "no": 183,
+    "song": "Morning Call",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730ec68058b56873d834b89ebe"
+  },
+  {
+    "no": 184,
+    "song": "Mganga",
+    "artist": "Xouh",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ca7ba851436369f8215b87cc"
+  },
+  {
+    "no": 185,
+    "song": "Wenyewe",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2736ee68b90eb8e0a691d24c108"
+  },
+  {
+    "no": 186,
+    "song": "Unatosha",
+    "artist": "Dayoo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2737486d48b6020af8cf4d4cb6d"
+  },
+  {
+    "no": 187,
+    "song": "Yesa",
+    "artist": "Chino Kidd",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c6f6bb26fa4164d0c517205c"
+  },
+  {
+    "no": 188,
+    "song": "Shu! (feat. Chley)",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27352d7418eaef9b7253dad99d6"
+  },
+  {
+    "no": 189,
+    "song": "Mapenzi au Pesa",
+    "artist": "Centano",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2736457347a753a32dba0229f47"
+  },
+  {
+    "no": 190,
+    "song": "Nakuja (feat. Marioo, Darassa \u0026 Maua Sama) - Remix",
+    "artist": "Tommy Flavour",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2738b3a6e1870e64d9bc70f74c6"
+  },
+  {
+    "no": 191,
+    "song": "My Baby (feat. Chike)",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730cc0ff8ab55224880d5e575d"
+  },
+  {
+    "no": 192,
+    "song": "Tajiri",
+    "artist": "Lava Lava",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732ff76b2924ef5575c1f85bf1"
+  },
+  {
+    "no": 193,
+    "song": "Tuna Kikao (feat. Diamond Platnumz)",
+    "artist": "Lava Lava",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273a46969bfb637df5b8e28e674"
+  },
+  {
+    "no": 194,
+    "song": "Sumu (feat. Marioo)",
+    "artist": "Alikiba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732ac81f2552d8dd5c504e54f5"
+  },
+  {
+    "no": 195,
+    "song": "Enjoy",
+    "artist": "Jux",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2736028492909e89f29acf95f1a"
+  },
+  {
+    "no": 196,
+    "song": "Mtima",
+    "artist": "Platform",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27392a1999c2b7fac46cc39aab1"
+  },
+  {
+    "no": 197,
+    "song": "Freestyle Session 6",
+    "artist": "Msodoki Young Killer",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732296de04b9e18096c7122442"
+  },
+  {
+    "no": 198,
+    "song": "Yaya (feat. Diamond Platnumz \u0026 Jux)",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e5651a1e49beb381e4b6f929"
+  },
+  {
+    "no": 199,
+    "song": "Wasiwasi",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273e027faa68ebefa73b3cf557e"
+  },
+  {
+    "no": 200,
+    "song": "Kamtu",
+    "artist": "GENIUSJINI X66",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5211256deb450fd7721469a"
+  },
+  {
+    "no": 201,
+    "song": "Love Song",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731aeb02cdf28eb363875b354e"
+  },
+  {
+    "no": 202,
+    "song": "Honey",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730235134bb6b40bb1a063af21"
+  },
+  {
+    "no": 203,
+    "song": "Nana",
+    "artist": "Dayoo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273faa9d8a2c8863a0eceb7ed7c"
+  },
+  {
+    "no": 204,
+    "song": "Watu Feki",
+    "artist": "Appy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27313230fa18b14395354bb3b61"
+  },
+  {
+    "no": 205,
+    "song": "Seasons",
+    "artist": "Nana Fofie",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730bec4031d7a1c4cad2142214"
+  },
+  {
+    "no": 206,
+    "song": "Wewe Hapo",
+    "artist": "Lony Bway",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273fa9c7965591e8096d795db29"
+  },
+  {
+    "no": 207,
+    "song": "Follow",
+    "artist": "Nandy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27374ce28b465fb0f35d90df5d8"
+  },
+  {
+    "no": 208,
+    "song": "Mbali Nawe",
+    "artist": "Jay Melody",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27397da9151c5c31d02eec7dd60"
+  },
+  {
+    "no": 209,
+    "song": "Mungu Tu",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa8f4e5ce1060a66de756bf"
+  },
+  {
+    "no": 210,
+    "song": "Sele (feat. Chley)",
+    "artist": "Mbosso",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2738db873b987dc10121a33b532"
+  },
+  {
+    "no": 211,
+    "song": "Maokoto",
+    "artist": "Billnass",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273537de7a6891ddbb3323db84b"
+  },
+  {
+    "no": 212,
+    "song": "Achii (feat. Koffi Olomide)",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273b3a00e9b42372efcaac1e4a2"
+  },
+  {
+    "no": 213,
+    "song": "Hawaniwezi",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732791e4cc6bb8831aabf878d0"
+  },
+  {
+    "no": 214,
+    "song": "Dear X",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cdd88b94cdb4d0b08808140e"
+  },
+  {
+    "no": 215,
+    "song": "Tena",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27304acfcbeb2e7eb96c3f2c99f"
+  },
+  {
+    "no": 216,
+    "song": "Single Again (feat. Ruger) - Remix",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273dea0ff05d9c7576473c822f5"
+  },
+  {
+    "no": 217,
+    "song": "Overdose",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273999fd5f211e86e47747d6903"
+  },
+  {
+    "no": 218,
+    "song": "Wewe hapoo",
+    "artist": "Lony Bway",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273af46db5dcefb42c75916c4ac"
+  },
+  {
+    "no": 219,
+    "song": "Naringa",
+    "artist": "Zuchu",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27384cb3ae74df95281d43998f9"
+  },
+  {
+    "no": 220,
+    "song": "Bandama",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273bf188fe5ab30819744bdbce1"
+  },
+  {
+    "no": 221,
+    "song": "Mbali Nawe",
+    "artist": "Jay Melody",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273ffa1b1345ba40b040a7b25a4"
+  },
+  {
+    "no": 222,
+    "song": "Wa Sasa",
+    "artist": "Kusah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27308dccae93f333413c6a4f553"
+  },
+  {
+    "no": 223,
+    "song": "Huku",
+    "artist": "Alikiba",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c756863562f5fe86c08e73d9"
+  },
+  {
+    "no": 224,
+    "song": "Nitatokaje",
+    "artist": "Founder Tz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27373f766e2baf3f61a2439a43a"
+  },
+  {
+    "no": 225,
+    "song": "Nalego",
+    "artist": "Mavokali",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27336801da7d97d0007d22478c8"
+  },
+  {
+    "no": 226,
+    "song": "Do Do",
+    "artist": "Fabi",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c7186075f769be5e4770de74"
+  },
+  {
+    "no": 227,
+    "song": "Kiss Me",
+    "artist": "Maua Sama",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273cb55658a1b2560f2b3cb33be"
+  },
+  {
+    "no": 228,
+    "song": "Milele",
+    "artist": "Abigail Chams",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27343a638a2638151c3be4adee7"
+  },
+  {
+    "no": 229,
+    "song": "Pounds \u0026 Dollars",
+    "artist": "Diamond Platnumz",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2732163b58f11046410b72491cd"
+  },
+  {
+    "no": 230,
+    "song": "Mambo Matano",
+    "artist": "Lady Jaydee",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27394670342a2dcbcf4452c2336"
+  },
+  {
+    "no": 231,
+    "song": "Yamenishika (Remix) [feat. Nandy]",
+    "artist": "Mocco Genius",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273051b129dcc2e6c20ed4b0491"
+  },
+  {
+    "no": 232,
+    "song": "Hapa",
+    "artist": "Ibraah",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2731a2b00a52f6b7c5e69c3fd8a"
+  },
+  {
+    "no": 233,
+    "song": "Sponsor",
+    "artist": "Phina",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27342bfdacd76cc8bc543e1acc8"
+  },
+  {
+    "no": 234,
+    "song": "I Need You",
+    "artist": "Jux",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b27374c630e5c66aa4560e2b7c1e"
+  },
+  {
+    "no": 235,
+    "song": "Wewe",
+    "artist": "GENIUSJINI X66",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2737eb39a3a96d04ac2f10dae22"
+  },
+  {
+    "no": 236,
+    "song": "Upo Single?",
+    "artist": "Rayvanny",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2736995d23a3638cadb053f7d5a"
+  },
+  {
+    "no": 237,
+    "song": "Pole",
+    "artist": "Mimi Mars",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b2730b268aa234875196eff2a132"
+  },
+  {
+    "no": 238,
+    "song": "Mshindi",
+    "artist": "Appy",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273d10352adfa6938e0886fffc6"
+  },
+  {
+    "no": 239,
+    "song": "Shisha",
+    "artist": "Marioo",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273131ad2f6ba2163b3d9699d56"
+  },
+  {
+    "no": 240,
+    "song": "Sijalewa",
+    "artist": "Harmonize",
+    "album_cover": "https://i.scdn.co/image/ab67616d0000b273c141ecedf11fd63d47bd4934"
+  }
+]
