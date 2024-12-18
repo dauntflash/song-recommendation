@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Recommendation App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+The **Song recommendation App** is a web-based platform that allows users to upload JSON playlists and get similar songs recommendations about their music collection.&#x20;
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+1. **File Upload**: Users can upload JSON files containing their music playlists.
+2. **Playlist Analysis**:
+   - Visualize the number of songs in each playlist using a pie chart.
+   - Count the frequency of each artist in the playlists.
+3. **Top Artists List**: Displays a table of the top 10 artists and the number of songs attributed to them.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React**: Frontend framework for building the user interface.
+- **Chart.js**: Library for rendering the pie chart.
+- **Dexie.js**: Lightweight wrapper for IndexedDB, used for storing and managing uploaded files.
+- **CSS**: Styling the application.
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these steps to set up and run the Recommendation App locally:
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Make sure you have the following installed on your system:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Node.js](https://nodejs.org/) (version 16 or later)
+- npm or yarn (comes with Node.js)
+- Git (optional, for cloning the repository)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Steps
 
-### `npm run eject`
+1. **Clone the Repository**:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   git clone https://github.com/your-username/recommendation-app.git
+   cd recommendation-app
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Install Dependencies**:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Start the Development Server**:
 
-## Learn More
+   ```bash
+   npm start
+   # or
+   yarn start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Open your browser and navigate to `http://localhost:3000`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+1. **Upload JSON Playlists**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   - Click the "Upload File" button to select a `.json` file.
+   - Ensure the JSON file is formatted as an array of objects, with each object containing the following fields:
+     ```json
+     [
+       {
+         "song": "Song Title",
+         "artist": "Artist Name",
+         "album_cover": "URL to Album Cover"
+       }
+     ]
+     ```
 
-### Analyzing the Bundle Size
+2. **View Insights**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   - After uploading, the app will display a pie chart showing the number of songs in each playlist.
+   - Below the chart, the top 10 most frequently occurring artists will be displayed in a table.
 
-### Making a Progressive Web App
+3. **Manage Files**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+   - Uploaded files are listed under "My Database."
+   - You can delete files by clicking the trash icon next to the file name.
 
-### Advanced Configuration
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-### Deployment
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
