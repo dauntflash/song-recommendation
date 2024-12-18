@@ -1,11 +1,11 @@
 import React, { useRef, useState } from "react";
 import Show from "./Show";
 import useFiles from "./Mydata";
-import BarChart from "./Charts";
-
+import { useNavigate } from "react-router-dom";
 const Files = () => {
   const [fileInput] = useState(useRef(null));
   const { files, popUp, handleFileAdd, deleteFile } = useFiles({Result:""});
+  
 
   const handleChange = (e) => {
     const file = fileInput.current.files[0];

@@ -86,6 +86,9 @@ const Settings = () => {
                     </div>
                 </div>
             </div>
+            <div className="footer">
+              <h4>Made with ❤️ by <a target="_blank" rel="noreferrer" href="https://github.com/dauntflash">Dauntflash</a></h4>
+            </div>
             
         </div>
     

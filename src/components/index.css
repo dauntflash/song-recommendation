@@ -32,6 +32,7 @@
   margin: 15px 0;
   padding:10px;
   border-radius: 50%;
+  outline: 1px solid var(--border-color);
 }
 .nav-link i{
   font-size: 24px;
@@ -214,6 +215,10 @@
     opacity: 1;
     transform: translate(-50%, -50%);
   }
+
+
+/*SETTINGS  */
+
 }
 .setting{
   width: 600px;
@@ -269,8 +274,8 @@
   overflow: hidden;
 }
 .themes .toggle div{
-  background-color: var(--accent-color);
-  color: var(--bg-color);
+  /* background-color: var(--accent-color); */
+  color: var(--scroll-color);
   padding: 10px;
   cursor: pointer;
   transition: .3s;
@@ -280,14 +285,52 @@
   background-color: var(--secondary-color);
 }
 .themes .toggle .active{
-  background-color: var(--bg-color);
-  color: var(--scroll-color);
+  color: var(--accent-color);
 }
 .themes .toggle div i{
   background-color: transparent;
 }
+.footer{
+  text-align: center;
+  margin-top: 13rem;
+}
+.footer h4 a{
+  text-decoration: none;
+  font-style: italic;
+}
+/* CHARTS */
+
 .chart-container{
   display: flex;
   justify-content: space-between;
   color: var(--secondary-color);
+}
+
+
+/* Not found */
+
+
+.not-found{
+  color: var(--secondary-color);
+  text-align: center;
+  width: 600px;
+  margin-top: 20px;
+
+}
+.not-found h1{
+  font-size: 100px;
+  font-weight: 100;
+}
+.not-found button{
+  margin-top: 20px;
+  padding: 10px;
+  background-color: var(--primary-color);
+  color: var(--bg-color);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: .3s;
+}
+.not-found button:hover{
+  background-color: var(--secondary-color);
 }

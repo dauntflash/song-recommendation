@@ -7,11 +7,12 @@ import "./App.css"
 import Header from "./Header";
 import Files from "./Files";
 import BarChart from "./Charts";
+import Notfound from "./Notfound";
 
 function App() {
   return(
     <div className="app">
-      <div className="header">
+      <div>
         <Header/>
       </div>
       <div className="content">
@@ -23,6 +24,8 @@ function App() {
               <Route path="/settings" element={< Settings />} />
               <Route path="/chart" element={<BarChart />} />
               <Route path="/upload" element={<Files/>} />
+              <Route path="*" element={<Notfound/>} />
+            
             </Routes>
           </div>
         </Router>
