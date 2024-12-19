@@ -6,7 +6,7 @@ const Search = ({file}) => {
                 <div className="about">
                     {file.song &&(
                         <div>
-                            <h4>{file.song}</h4>
+                            <h4>{file.song} <span>by</span></h4>
                             <p>{file.artist}</p>
                         </div>
                     )}

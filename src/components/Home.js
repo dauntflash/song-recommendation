@@ -5,7 +5,7 @@ import useFiles from "./Mydata";
 
 const Home = () => {
     const [Result, setResult] = useState('');
-    const [MyValue, setMyValue] = useState(5)
+    const [MyValue] = useState(5)
 
 
     const {suggestions}=useFiles({Result,maxValue:MyValue});

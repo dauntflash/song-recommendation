@@ -86,10 +86,12 @@
   color: var(--secondary-color);
   margin-bottom: 20px;
 }
+
+/* SEARCH*/
+
 .search{
   margin-bottom: 10px;
 }
-
 .search .results{
   border: 1px solid var(--border-color);
   border-radius: 5px;
@@ -114,6 +116,10 @@
   height: 100%;
   object-fit: cover;
 }
+.search .about span{
+  font-style: italic;
+}
+
 .upload{
   display: flex;
   justify-content: space-between;
