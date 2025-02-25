@@ -1,38 +1,43 @@
-import { BrowserRouter as Router,Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
 import React from "react";
 import SideBar from "./SideBar";
-import Settings from "./Settings"
-import Home from "./Home"
-import "./App.css"
+import Settings from "./Settings";
+import Home from "./Home";
+import "./App.css";
 import Header from "./Header";
 import Files from "./Files";
 import BarChart from "./Charts";
 import Notfound from "./Notfound";
 
 function App() {
-  return(
+  const location = useLocation();
+  const isNotFound = !["/", "/settings", "/chart", "/upload"].includes(location.pathname);
+
+  return (
     <div className="app">
-      <div>
-        <Header/>
-      </div>
+      <Header />
       <div className="content">
-        <Router>
-          < SideBar /> 
-          <div className="main-div">
+        {!isNotFound && <SideBar />}
+        <div className="main-div">
           <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/settings" element={< Settings />} />
-              <Route path="/chart" element={<BarChart />} />
-              <Route path="/upload" element={<Files/>} />
-              <Route path="*" element={<Notfound/>} />
-            
-            </Routes>
-          </div>
-        </Router>
+            <Route path="/" element={<Home />} />
+            <Route path="/settings" element={<Settings />} />
+            <Route path="/chart" element={<BarChart />} />
+            <Route path="/upload" element={<Files />} />
+            <Route path="*" element={<Notfound />} />
+          </Routes>
+        </div>
       </div>
     </div>
-  )
-  
+  );
 }
 
-export default App;
+function AppWrapper() {
+  return (
+    <Router>
+      <App />
+    </Router>
+  );
+}
+
+export default AppWrapper;

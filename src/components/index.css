@@ -170,9 +170,15 @@
 .files .database ol li:hover{
   background-color: var(--border-color);
 }
-.files .no-file p{
+.no-file p{
   padding: 15px 0;
   color: var(--primary-color);
+}
+.no-file a{
+  color: var(--accent-color);
+  font-style: italic;
+  text-decoration: none;
+  cursor: pointer;
 }
 .pop-up {
   box-shadow: 3px 6px 10px var(--border-color);
@@ -277,18 +283,17 @@
 }
 .themes .toggle{
   border-radius: 5px;
+  background: transparent;
   overflow: hidden;
 }
 .themes .toggle div{
-  /* background-color: var(--accent-color); */
   color: var(--scroll-color);
   padding: 10px;
   cursor: pointer;
-  transition: .3s;
   box-sizing: border-box;
 }
 .themes .toggle div:hover{
-  background-color: var(--secondary-color);
+  background-color: var(--border-color);
 }
 .themes .toggle .active{
   color: var(--accent-color);
@@ -317,14 +322,16 @@
 
 
 .not-found{
+  position: absolute;
+  margin: 0 auto;
+  left: 40%;
   color: var(--secondary-color);
   text-align: center;
-  width: 600px;
   margin-top: 20px;
 
 }
 .not-found h1{
-  font-size: 100px;
+  font-size: 140px;
   font-weight: 100;
 }
 .not-found button{
